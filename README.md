@@ -1,3 +1,3 @@
 # massdelete
 
-Code by Deray
+Mass delete Facebook Friend
